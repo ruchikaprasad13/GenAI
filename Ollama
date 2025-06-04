@@ -1,0 +1,1 @@
+ollama run llama3.2        #download the model, it can be any other model too. these are open source LLMs, do this in CMD or Powershell
